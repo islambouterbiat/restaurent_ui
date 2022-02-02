@@ -1,3 +1,3 @@
-# Modern UI/UX for Restaurent landing page
+# Modern UI/UX for Restaurant landing page
 
 # Live Link : https://condescending-lamarr-4dede5.netlify.app/
